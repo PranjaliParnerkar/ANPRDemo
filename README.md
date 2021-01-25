@@ -3,4 +3,3 @@ Problem Statement — Our client, a leading textile manufacturer faced various s
 Let’s for now focus only on the tracking of vehicles through mobile application. This was done by the security workforce deployed at every checkpoint where they were responsible to capture the picture of every vehicle’s number plate on entry and exit through the mobile app. To detect the license plate, we made use of an AI based Indian license plate detector.
 You can find the detailed description of this project on my blog - https://pranjaliparnerkar28.medium.com/automatic-number-plate-recognition-using-ai-16c3dcb55b0b
 
-![alt text](/static/images/2021-01-25 (2).png)
